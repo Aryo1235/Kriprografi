@@ -2,7 +2,7 @@ node_modules
 dist
 .dockerignore
 Dockerfile
-nginx.conf
+
 npm-debug.log
 .git
 .gitignore
